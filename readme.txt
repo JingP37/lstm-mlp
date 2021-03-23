@@ -1,1 +1,0 @@
-The file "ofdm" is the main program for the simulation. And file "autoencoder" or "lstm" or "STA_DNN" can be used for training and testing.
